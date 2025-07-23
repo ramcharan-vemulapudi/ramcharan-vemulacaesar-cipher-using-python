@@ -25,7 +25,7 @@ The Caesar Cipher works by shifting each letter in the plaintext a certain numbe
 
 1.  **Clone the repository (or download the files):**
     ``bash
-    git clone [https://github.com/ramcharan-vemulapudi/caesar-cipher-python.git](https://github.com/ramcharan-vemulapudi/caesar-cipher-python.git)
+    git clone [https://github.com/ramcharan-vemulapudi/caesar-cipher-python.git](https://github.com/ramcharan-vemulapudi/caesar-cipher-python.git).
     cd caesar-cipher-python
     ``
 
@@ -175,18 +175,18 @@ The Caesar Cipher works by shifting each letter in the plaintext a certain numbe
 
 **Example Encrypt:**
 
-Do you want to (e)ncrypt or (d)ecrypt? (e/d): e
-Enter the text: Hello, World!
-Enter the shift key (an integer): 3
+* Do you want to (e)ncrypt or (d)ecrypt? (e/d): e
+* Enter the text: Hello, World!
+* Enter the shift key (an integer): 3
 
-Encrypted text: Kelli, Zruog!
-Thank you for using the Caesar Cipher tool!
+* Encrypted text: Kelli, Zruog!
+* Thank you for using the Caesar Cipher tool!
 
 **Example Decrypt:**
 
-Do you want to (e)ncrypt or (d)ecrypt? (e/d): d
-Enter the text: Kelli, Zruog!
-Enter the shift key (an integer): 3
+* Do you want to (e)ncrypt or (d)ecrypt? (e/d): d
+* Enter the text: Kelli, Zruog!
+* Enter the shift key (an integer): 3
 
-Decrypted text: Hello, World!
-Thank you for using the Caesar Cipher tool!
+* Decrypted text: Hello, World!
+* Thank you for using the Caesar Cipher tool!
