@@ -25,7 +25,7 @@ The Caesar Cipher works by shifting each letter in the plaintext a certain numbe
 
 1.  **Clone the repository (or download the files):**
     ``bash
-    git clone [https://github.com/ramcharan-vemulapudi/caesar-cipher-python.git](https://github.com/ramcharan-vemulapudi/caesar-cipher-python.git).
+    git clone https://github.com/ramcharan-vemulapudi/caesar-cipher-python.git
     cd caesar-cipher-python
     ``
 
